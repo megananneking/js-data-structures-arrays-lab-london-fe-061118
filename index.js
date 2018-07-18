@@ -22,3 +22,8 @@ function appendDriver(name) {
   return driversTwo;
 }
 
+function prependDriver(name) {
+  const driversTwo = drivers.slice();
+  driversTwo.unshift(name);
+  return driversTwo;
+}
