@@ -1,2 +1,2 @@
 // Write your solution here!
-fuunction const drivers ["Milo", "Otis", "Garfield"]
+function const drivers ["Milo", "Otis", "Garfield"]
