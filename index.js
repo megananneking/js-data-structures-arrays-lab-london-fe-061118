@@ -10,5 +10,5 @@ function destructivelyPrependDriver(name) {
 }
 
 function destructivelyPrependDriver(name) {
-  drivers.unshift(name);
+  drivers.pop(name);
 }
